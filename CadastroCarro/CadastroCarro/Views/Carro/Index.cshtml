@@ -10,6 +10,7 @@
     <a asp-action="CriarCarro">Cadastro de Carros</a>
 </p>
 <table class="table">
+
     <thead>
         <tr>
             <th>
@@ -28,25 +29,26 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nome)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Marca)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Modelo)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Ano)
-            </td>
-            <td>
-                <a asp-action="AtualizarCarro" asp-route-id="@item.CarroId">Atualizar</a> |
-                <a asp-action="ExcluirCarro" asp-route-id="@item.CarroId">Excluir</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marca)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Modelo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ano)
+                </td>
+                <td>
+                    <a asp-action="AtualizarCarro" asp-route-id="@item.CarroId">Atualizar</a> |
+                    <a asp-action="ExcluirCarro" asp-route-id="@item.CarroId">Excluir</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

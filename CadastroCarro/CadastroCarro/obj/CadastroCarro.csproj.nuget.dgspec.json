@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desenv-7\\Music\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj": {}
+    "C:\\Users\\Desenv-7\\Music\\estudos-netcore-pt2\\MVC-NetCore\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desenv-7\\Music\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj": {
+    "C:\\Users\\Desenv-7\\Music\\estudos-netcore-pt2\\MVC-NetCore\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desenv-7\\Music\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj",
+        "projectUniqueName": "C:\\Users\\Desenv-7\\Music\\estudos-netcore-pt2\\MVC-NetCore\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj",
         "projectName": "CadastroCarro",
-        "projectPath": "C:\\Users\\Desenv-7\\Music\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj",
+        "projectPath": "C:\\Users\\Desenv-7\\Music\\estudos-netcore-pt2\\MVC-NetCore\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj",
         "packagesPath": "C:\\Users\\Desenv-7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desenv-7\\Music\\CadastroCarro\\CadastroCarro\\obj\\",
+        "outputPath": "C:\\Users\\Desenv-7\\Music\\estudos-netcore-pt2\\MVC-NetCore\\CadastroCarro\\CadastroCarro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desenv-7\\AppData\\Roaming\\NuGet\\NuGet.Config",

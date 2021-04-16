@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zpZg2irAZTmxO2WZpgJs9qItboo7eKYG28xOsW8NuSgQ0gbV57I8HIUJLELOtXuMn4/AqeBjghP95C1UVfb6Nw==",
+  "dgSpecHash": "9oq+i1YuAijzmgMaZutxm0ZPAVlqq8dY+OYLQVPZ6/lsKATJR4yLwpuyu5WglAi/v4VbvpiiGz+RF+V7z2SsCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Desenv-7\\Music\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj",
+  "projectFilePath": "C:\\Users\\Desenv-7\\Music\\estudos-netcore-pt2\\MVC-NetCore\\CadastroCarro\\CadastroCarro\\CadastroCarro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Desenv-7\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Desenv-7\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
